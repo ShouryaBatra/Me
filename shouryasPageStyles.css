@@ -1,0 +1,27 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+    font-size: xxx-large;
+}
+
+h1 {
+    color: black;
+}
+
+pre {
+    /* font-size: 15px; */
+    border: 2px solid;
+    padding: 10px;
+    margin: 25px;
+    color: black;
+    transition: background-color 0.2s;
+}
+
+pre:hover {
+    
+    background-color: grey;
+}
+
+.pinkColor {
+    color: pink;
+}
