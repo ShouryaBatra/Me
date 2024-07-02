@@ -14,14 +14,10 @@ pre {
     padding: 10px;
     margin: 25px;
     color: black;
-    transition: background-color 0.2s;
+    transition: background-color 1.5s;
 }
 
 pre:hover {
-    
     background-color: grey;
 }
 
-.pinkColor {
-    color: pink;
-}
