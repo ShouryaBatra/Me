@@ -17,7 +17,13 @@ pre {
     transition: background-color 1.5s;
 }
 
+img {
+    padding-top: 2%;
+}
+
 pre:hover {
     background-color: grey;
 }
+
+
 
